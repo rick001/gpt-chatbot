@@ -1,0 +1,4 @@
+User: What is the weather like today?
+Bot: The weather is sunny with a slight chance of rain.
+User: What is the capital of France?
+Bot: The capital of France is Paris.
